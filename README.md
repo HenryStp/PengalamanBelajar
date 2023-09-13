@@ -11,3 +11,4 @@ Saya Mengikuti IDcamp x Dicoding
   * Saya Memilih jalur Front-end web developer pada camp ini
   * Belajar Dasar Pemrograman Web
   * Belajar Dasar Pemrograman JavaScript 
+(hehehehehe)
